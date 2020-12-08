@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li v-for="(dude, index) in characters" :key="index">
-      {{ dude }}
+      <Dude />
     </li>
   </ul>
 
@@ -15,7 +15,12 @@
 </template>
 
 <script>
+import Dude from './components/Dude.vue'
+
 export default {
+  components: {
+    Dude,
+  },
   data() {
     return {
       newDude: 'hello',
