@@ -5,9 +5,7 @@
     </li>
   </ul>
 
-  <form @submit.prevent="characters.push(newDude)" class="add-new">
-    <input v-model="newDude" type="text" />
-  </form>
+  <create-dude-form />
 
   <p class="preview">
     {{ newDude }}
@@ -16,10 +14,12 @@
 
 <script>
 import Dude from './components/Dude.vue'
+import CreateDudeForm from './components/CreateDudeForm.vue'
 
 export default {
   components: {
     Dude,
+    CreateDudeForm,
   },
   data() {
     return {
