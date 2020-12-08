@@ -1,12 +1,22 @@
 <template>
   <article>
-    this is my name
-    <span>this is some words about me i guess</span>
+    {{ name }}
+    <span>{{ title }}</span>
   </article>
 </template>
 
 <script>
-export default {}
+export default {
+  props: {
+    name: {
+      type: String,
+    },
+    title: {
+      type: String,
+      default: 'this is some words about me, i guess',
+    },
+  },
+}
 </script>
 
 <style lang="scss" scoped></style>

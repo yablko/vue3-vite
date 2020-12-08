@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li v-for="(dude, index) in characters" :key="index">
-      <Dude />
+      <Dude :name="dude" title="hello, my good dude" />
     </li>
   </ul>
 
