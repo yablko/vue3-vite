@@ -5,7 +5,10 @@
     </li>
   </ul>
 
-  <create-dude-form />
+  <create-dude-form
+    @new-preview="newDude = $event"
+    @add-dude="characters.push($event)"
+  />
 
   <p class="preview">
     {{ newDude }}
