@@ -10,18 +10,18 @@
     @add-dude="characters.push($event)"
   />
 
-  <p class="preview">
-    {{ newDude }}
-  </p>
+  <preview-dude />
 </template>
 
 <script>
 import Dude from './components/Dude.vue'
+import PreviewDude from './components/PreviewDude.vue'
 import CreateDudeForm from './components/CreateDudeForm.vue'
 
 export default {
   components: {
     Dude,
+    PreviewDude,
     CreateDudeForm,
   },
   data() {
