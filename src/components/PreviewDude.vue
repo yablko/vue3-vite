@@ -8,8 +8,11 @@
 export default {
   data() {
     return {
-      name: 'vasho',
+      name: '',
     }
+  },
+  created() {
+    window.eventBus.on('new-preview', (event) => (this.name = event))
   },
 }
 </script>
