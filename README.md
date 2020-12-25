@@ -14,51 +14,28 @@ Dostaneš ďalšie kurzy skôr. Aj v textovej forme.
 
 ---
 
-Tailwind CSS  
-https://tailwindcss.com  
-https://tailwindcss.com/docs
-  
-Tailwind PLAYGROUND  
-https://play.tailwindcss.com  
+Vue 3 + Vite  
+:: https://v3.vuejs.org
+:: https://github.com/vitejs/vite
+:: https://v3.vuejs.org/guide/installation.html#vite
 
-VSCode Tailwind CSS IntelliSense  
-https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss  
+Vetur  
+:: https://marketplace.visualstudio.com/items?itemName=octref.vetur
 
-VSCode LIVE SERVER  
-https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer  
+Vue VSCode Snippets  
+:: https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets
 
-Tailwind YOUTUBE KANAL  
-https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ  
+JavaScript (ES6) code snippets  
+:: https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
 
-Adam Wathan - Tailwind CSS Best Practice Patterns  
-https://www.youtube.com/watch?v=J_7_mnFSLDg  
+Vue 3 Event Bus  
+:: https://v3.vuejs.org/guide/migration/events-api.html#_2-x-syntax
 
-The Net Ninja TAILWIND CSS tutorial  
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw  
+Mitt  
+:: https://github.com/developit/mitt
 
-CSS SCROLL SNAPPING  
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap/Basic_concepts  
-https://css-tricks.com/practical-css-scroll-snapping/  
-  
-SVG  
-https://tailwindcss.com/course/working-with-svg-icons#app  
-https://jakearchibald.github.io/svgomg  
-http://svgicons.sparkk.fr  
-https://freesvg.org  
-
-PLAYGROUNDY (co som navyrabal)  
-https://play.tailwindcss.com/BQ1ft9kHSu  
-https://play.tailwindcss.com/eGUrllgiE8  
-https://play.tailwindcss.com/pjmPULml8Y  
-
-UNSPLASH (free fotky)  
-https://unsplash.com  
-
-How to draw an Akita dog  
-https://www.youtube.com/watch?v=9qfmxWbklQM  
-
-Game Maker's Toolkit - Designing for Disability  
-https://www.youtube.com/playlist?list=PLc38fcMFcV_vvWOhMDriBlVocTZ8mKQzR  
+Vuex  
+:: https://vuex.vuejs.org
 
 ---
 
