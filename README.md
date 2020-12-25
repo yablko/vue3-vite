@@ -12,9 +12,6 @@ Dostaneš ďalšie kurzy skôr. Aj v textovej forme.
 
 [![youtube tutorial link](vue3vite.jpg)](https://youtu.be/AJ17T-miRII)
 
-### Toto vyrobíme  
-:: https://yablko.github.io/tailwind-trulo/public/index.html
-
 ---
 
 Tailwind CSS  
