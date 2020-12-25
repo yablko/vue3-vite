@@ -15,9 +15,9 @@ Dostaneš ďalšie kurzy skôr. Aj v textovej forme.
 ---
 
 Vue 3 + Vite  
-:: https://v3.vuejs.org
-:: https://github.com/vitejs/vite
-:: https://v3.vuejs.org/guide/installation.html#vite
+:: https://v3.vuejs.org  
+:: https://github.com/vitejs/vite  
+:: https://v3.vuejs.org/guide/installation.html#vite  
 
 Vetur  
 :: https://marketplace.visualstudio.com/items?itemName=octref.vetur
