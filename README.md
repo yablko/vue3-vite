@@ -10,7 +10,7 @@ Dostaneš ďalšie kurzy skôr. Aj v textovej forme.
 ### Vue 3 kurz ✨ programovanie cez komponenty  
 :: https://youtu.be/AJ17T-miRII
 
-[![youtube tutorial link](play.this.vid.jpg)](https://youtu.be/AJ17T-miRII)
+[![youtube tutorial link](vue3vite.jpg)](https://youtu.be/AJ17T-miRII)
 
 ### Toto vyrobíme  
 :: https://yablko.github.io/tailwind-trulo/public/index.html
